@@ -1,5 +1,5 @@
 OUTLINE
-Make the next Imgur! Put together a platform that lets users upload images and see others' images. Users should be able to upvote/downvote images and add comments to others' images. They should also be able to add captions and tags to their own images. 
+Make the next Imgur! Put together a platform that lets users upload images and see others' images. Users should be able to upvote/downvote images and add comments to others' images. They should also be able to add captions and tags to their own images.
 
 ASSETS (provided to students):
 - name (“Pixel8”)

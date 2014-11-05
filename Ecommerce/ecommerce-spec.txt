@@ -1,5 +1,5 @@
 OUTLINE
-Famed Boston bagel restaurant "Bob's Bagels" needs a new website with a full menu and an online order system for ordering either (1) bulk bagels, or (2) customizable bagel sandwiches (to which toppings can be added or removed, affecting the price of the sandwich). 
+Famed Boston bagel restaurant "Bob's Bagels" needs a new website with a full menu and an online order system for ordering either (1) bulk bagels, or (2) customizable bagel sandwiches (to which toppings can be added or removed, affecting the price of the sandwich).
 
 The order system *must* allow users to create orders, change them before paying, and finally pay by credit card (via Stripe). Bonus points [5] for allowing multiple people to contribute to the order, and saving orders for future use.
 
