@@ -1,14 +1,14 @@
 OUTLINE
-Produce a new online dating platform, allowing lonely single programmers to find true love. The users of your new platform should be able to (1) search for other users based on age, gender, favorite language, etc, and (2) view other people's profiles. Users should also be able to 'like' other users; if two users 'like' each other, both users get a notification, and they can chat with each other through the service. 
+Produce a new online dating platform, allowing individuals to meet people outside their social group. The users of your new platform should be able to (1) search users who are outside their social group (no shared friends) based on their preferences (age, gender, interests) and (2) view other people's profiles. (3) Users should also be able to 'like' other users; if two users 'like' each other, both users get a notification, and they can chat with each other through the service.
 
-ASSETS (provided to students): 
-- name (“JoinTable”)
+ASSETS (provided to students):
+- name ('Exo')
 - profiles for some sample users (profiles.txt)
 
 MUST-HAVE FEATURES:
-- Users must be able to log in (manually or with a GitHub account)
+- Users must be able to log in via Facebook and assign themselves a username and select photos from Facebook that they would like to show to other users
 - Users must have usernames, photos, and profiles with personal information (including at least as much info as the sample ones)
-- User profiles must link up with their GitHub accounts and include information about peoples’ programming habits
+- Users must be presented *only* with other users who do not share overlap in their friends.
 - Users must be able to 'like' each others' profiles. They must also receive notifications when their profile has been 'liked'.
 - A chat service that allows users to send messages to other users. However, this will only be active when two users 'like' each others' profiles.
 
