@@ -17,6 +17,7 @@ MUST-HAVE FEATURES:
     * commenters get notifications when comments are made on their comments, or when their comments get upvoted/downvoted
 
 NICE-TO-HAVE FEATURES:
+- Images are served from a CDN (Amazon Cloudfront)
 - One or more photos can be uploaded via drag/drop to the site.
 - Logged-in users are able to flag offensive images for moderation, and after 3 flags they are automatically hidden from the public.
 - Users have the option to get notifications sent to them by email (with context; i.e. “User X replied to your comment, ‘Blah blah blah’ ”)
