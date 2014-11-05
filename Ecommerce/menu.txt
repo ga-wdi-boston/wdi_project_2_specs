@@ -1,0 +1,82 @@
+=== MENU ===
+Catering Menu
+  - Small bagel box (12 bagels)
+      -> plain bagels : $12
+      -> variety bagels : $15
+        * 2 each of : plain, sesame seed, poppy seed, onion, whole wheat, cinnamon raisin
+      -> single-variety box : $15
+        * 12 of any one variety (see list above)
+  - Large bagel box (18 bagels)
+      -> plain bagels : $18
+      -> variety bagels : $20
+        * 3 each of : plain, sesame seed, poppy seed, onion, whole wheat, cinnamon raisin
+      -> single-variety box : $20
+        * 18 of any one variety (see list above)
+  - Cream Cheese (catering size)
+      -> plain : $4.00
+      -> chive : $4.50
+      -> tofutti (vegetarian) : $4.50
+      -> salmon spread : $5.50
+  - Party Box (25 bagels plus plain and chive cream cheese) : $50
+
+Sandwiches
+  - The Somerville : $6.75
+      whole wheat bagel with
+          - avocado
+          - tomato
+          - cucumber
+          - sprouts
+          - tofutti cream cheese
+  - The North End : $6.50
+      onion bagel with
+          - roast beef
+          - tomato
+          - red onions
+          - asiago cheese
+          - provolone cheese
+  - The South End : $6.50
+      sesame bagel with
+          - corn beef
+          - cole slaw
+          - swiss cheese
+          - spicy mustard
+  - The Hub : $6.00
+      plain bagel with
+          - turkey
+          - garlic mayonaisse
+          - tomato
+          - cucumber
+          - sprouts
+  - The Brookline : $7.50
+      poppyseed bagel with
+          - cream cheese
+          - tomato
+          - red onions
+          - smoked salmon
+  - Build Your Own!
+      Options
+        plain bagel : $2.50
+        variety bagel (non-plain) : +$0.50
+        tomato / cucumber / red onions / cole slaw : free
+        mayo / garlic mayo / mustard / spicy mustard: +$0.50
+        cream cheese (plain or chive) : +$1.50
+	      tofutti : +$2.00
+        salmon spread : +$2.50
+        asiago / provalone / swiss / cheddar cheese: +$0.50
+	      avocado : +$2.00
+        sprouts : +$0.50
+        turkey : +$2.00
+        smoked salmon : +$3.50
+        roast beef : +$2.00
+        corn beef : +$3.00
+
+Beverages
+  Fountain soda
+    Small : $2.75
+    Large : $3.50
+  Hot Coffee
+    Small : $2.00
+    Large : $2.50
+  Latte
+    Small : $3.50
+    Large : $4.25

@@ -1,0 +1,32 @@
+OUTLINE
+Make the next Imgur! Put together a platform that lets users upload images and see others' images. Users should be able to upvote/downvote images and add comments to others' images. They should also be able to add captions and tags to their own images. 
+
+ASSETS (provided to students):
+- name (“Pixel8”)
+- A base set of images to play around with (though feel free to others instead)
+
+MUST-HAVE FEATURES:
+- Front page must be able to show the highest-voted images from the last 24 hours
+- Users must be able to log in; users who are not logged in can only browse (no uploading, commenting, or voting)
+- Users must have usernames and avatars
+- Logged-in users must be able to upload image files (with captions)
+- Logged-in users must also be able to comment on, and upvote/downvote, other peoples’ images
+- Logged-in users must also be able to comment on, and upvote/downvote, other users’ comments
+- Logged-in users must be able to get notifications within the platform, and get these notifications under the following circumstances:
+    * image owner gets notifications when comments are made on the image, or when the image gets upvoted/downvoted (NOT when comments get made on other comments)
+    * commenters get notifications when comments are made on their comments, or when their comments get upvoted/downvoted
+- Logged-in users can ‘fork’ other users’ uploaded images (with attribution) and have the forked versions appear under their own accounts.
+
+NICE-TO-HAVE FEATURES:
+- Users have the option to get notifications sent to them by email (with context; i.e. “User X replied to your comment, ‘Blah blah blah’ ”)
+- Users have visible profiles, listing:
+  > username
+  > time in the service
+  > optional blurb
+  > optional avatar alongside comments; start with a defualt avatar if they don't choose one
+  > interests
+- Users can create ‘channels’ for specific categories of images, and browse all channels created by other users.
+- Users can edit any of their photos on the platform:
+  > Cropping
+  > Applying ‘filters’
+  > Doodling on top of them

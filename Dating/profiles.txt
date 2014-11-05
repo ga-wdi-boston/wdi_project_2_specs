@@ -1,0 +1,22 @@
+Name: Dara XXXXX
+Gender: F 
+Age: 37
+GitHub account: some_username
+Interests: small cars, small dogs, Steelers football, bare-handed street fighting
+Primary Languages: Perl, Java
+Starred Repos: <blah_blah_blah.git>, ...
+About Me: "Let's meet over beers at a sports bar somewhere!""
+
+Name: Ariel YYYYY
+Gender: M
+Age: 29
+GitHub account: some_other_username
+Interests: pyrotechnics, mixology, 18th-century German poetry,...
+Primary Languages: C, C++, Lisp
+Starred Repos: <blah_blah_blah.git>, ...
+About Me: " 'It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.'' - Nathaniel Borenstein "
+
+
+
+
+

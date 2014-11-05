@@ -1,0 +1,4 @@
+Customers must enter their address if they want delivery. Charges are:
+  + $6.00 if in downtown Boston, South Boston, or the North or South End
+  + $10.00 if in Brookline, Allston, Cambridge, or Somerville
+Currently no delivery to anywhere else.
