@@ -1,3 +1,5 @@
+# Pixelect: Image Sharing
+
 ## Outline
 Deciding the best photo is hard, but other people can help you choose the best image in a set that you upload. Put together a platform that lets users upload sets of images (more than one) with a question ('Which is the cutest cat?') and let other users vote to determine the top photo. Users should also be able to have a conversation in comments about the photo sets.
 
