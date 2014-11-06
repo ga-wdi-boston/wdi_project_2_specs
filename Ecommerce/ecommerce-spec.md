@@ -5,9 +5,9 @@ Famed Boston bagel restaurant "Bob's Bagels" needs a new website with a full men
 
 ## Assets (provided to students)
 - name (“Bob’s Bagels”)
-- menu, with prices (menu.txt)
-- delivery information (delivery.txt)
-- bio for Bob (bio.txt)
+- menu, with prices (see below)
+- delivery information (see below)
+- bio for Bob (see below)
 
 ## Must-Have Features
 - menu must be visible on the site
@@ -36,21 +36,21 @@ Robert "Bob" Bagler was born in Boston in 1951; after years of working in his fa
 
 ### Delivery
 
-Customers must enter their address if they want delivery. Charges are:
-  + $6.00 if in downtown Boston, South Boston, or the North or South End
-  + $10.00 if in Brookline, Allston, Cambridge, or Somerville
-Currently no delivery to anywhere else.
+Customers must enter their address if they want delivery. Charges are:  
+  + $6.00 if in downtown Boston, South Boston, or the North or South End  
+  + $10.00 if in Brookline, Allston, Cambridge, or Somerville  
+Currently no delivery to anywhere else.  
 
 ### Menu
 
 Catering Menu
-  - Small bagel box (12 bagels)
-      -> plain bagels : $12
-      -> variety bagels : $15
-        * 2 each of : plain, sesame seed, poppy seed, onion, whole wheat, cinnamon raisin
-      -> single-variety box : $15
-        * 12 of any one variety (see list above)
-  - Large bagel box (18 bagels)
+  - Small bagel box (12 bagels)  
+      -> plain bagels : $12  
+      -> variety bagels : $15  
+        * 2 each of : plain, sesame seed, poppy seed, onion, whole wheat, cinnamon raisin  
+      -> single-variety box : $15  
+        * 12 of any one variety (see list above)  
+  - Large bagel box (18 bagels)  
       -> plain bagels : $18
       -> variety bagels : $20
         * 3 each of : plain, sesame seed, poppy seed, onion, whole wheat, cinnamon raisin
