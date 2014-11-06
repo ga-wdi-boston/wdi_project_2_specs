@@ -1,34 +1,23 @@
 OUTLINE
-Make the next Imgur! Put together a platform that lets users upload images and see others' images. Users should be able to upvote/downvote images and add comments to others' images. They should also be able to add captions and tags to their own images.
+Deciding the best photo is hard, but other people can help you choose the best image in a set that you upload. Put together a platform that lets users upload sets of images (more than one) with a question ('Which is the cutest cat?') and let other users vote to determine the top photo. Users should also be able to have a conversation in comments about the photo sets.
 
 ASSETS (provided to students):
-- name (“PixE”)
-- A base set of images to play around with (though feel free to others instead)
+- name ("Pixelect")
 
 MUST-HAVE FEATURES:
-- Front page must be able to show the highest-voted images from the last 24 hours
-- Users must be able to log in; users who are not logged in can only browse (no uploading, commenting, or voting)
-- Users must have usernames and avatars
-- Logged-in users must be able to upload image files (with optional title/caption)
-- Logged-in users must also be able to comment on, and upvote/downvote, other peoples’ images
-- Logged-in users must also be able to comment on, and upvote/downvote, other users’ comments
-- Logged-in users must be able to get notifications within the platform, and get these notifications under the following circumstances:
-    * image owner gets notifications when comments are made on the image
-    * commenters get notifications when comments are made on their comments, or when their comments get upvoted/downvoted
+- Users (anonymous or logged in) must be able to upload sets of images and write a question/prompt that others will use as their voting criteria. (e.g. 'Which photo has the best composition?', 'Which photo of me is funniest?')
+- Front page must show the most actively voted upon image sets from the last 24 hours and also recent uploads.
+- Users must be able to log in; users who are not logged in can upload images, but cannot comment or vote.
+- Users must have usernames, but a full profile is not necessary.
+- Logged-in users must also be able to comment on, and upvote/downvote on other peoples’ image sets.
+- Logged-in users must also be able to comment on other users’ comments.
+- Images are uploaded to S3 and served from Amazon Cloudfront
 
 NICE-TO-HAVE FEATURES:
-- Images are served from a CDN (Amazon Cloudfront)
-- One or more photos can be uploaded via drag/drop to the site.
-- Logged-in users are able to flag offensive images for moderation, and after 3 flags they are automatically hidden from the public.
-- Users have the option to get notifications sent to them by email (with context; i.e. “User X replied to your comment, ‘Blah blah blah’ ”)
-- Users have visible profiles, listing:
-  > username
-  > time in the service
-  > optional blurb
-  > optional avatar alongside comments; start with a defualt avatar if they don't choose one
-  > interests
-- Users can create ‘channels’ for specific categories of images, and browse all channels created by other users.
-- Users can edit any of their photos on the platform:
-  > Cropping
-  > Applying ‘filters’
-  > Doodling on top of them
+
+- Track and display the view count for each image set.
+- Photo sets can be uploaded via drag/drop to the site.
+- Users can tag image sets with a category and browse sets by tag.
+- Logged-in users are able to flag offensive image sets for moderation, and after 3 flags they are automatically hidden from the public.
+- Users have the option to get notifications sent to them (with context; i.e. “User X replied to your comment, ‘Blah blah blah’ ”)
+- Users can crop and apply filters to their photos

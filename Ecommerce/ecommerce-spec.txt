@@ -1,8 +1,6 @@
 OUTLINE
 Famed Boston bagel restaurant "Bob's Bagels" needs a new website with a full menu and an online order system for ordering either (1) bulk bagels, or (2) customizable bagel sandwiches (to which toppings can be added or removed, affecting the price of the sandwich).
 
-The order system *must* allow users to create orders, change them before paying, and finally pay by credit card (via Stripe). Bonus points [5] for allowing multiple people to contribute to the order, and saving orders for future use.
-
 ASSETS (provided to students):
 - name (“Bob’s Bagels”)
 - menu, with prices (menu.txt)
@@ -12,15 +10,18 @@ ASSETS (provided to students):
 MUST-HAVE FEATURES:
 - menu must be visible on the site
 - Bob’s bio must be somewhere on the site
-- users can place orders
+- users can place orders and are billed appropriately (including delivery charges)
 - users can see an order history
-- users can change orders before placing them
+- users can view an order in progress and change the order before placing it
 - users can customize sandwiches by adding items (increasing the price) or removing items (not affecting the price)
+- users can pay by credit card (via the Stripe API)
 
 NICE-TO-HAVE FEATURES:
+- site should be fully mobile-friendly
 - users can enter promotional discount codes for their orders
-- two different user paths for buying sandwiches vs bulk bagels (enterprise client)
-- an API, which could be used for an admin view, or could plug into an inventory management system
+- two different user paths for buying single sandwiches vs. bulk catering
 - rotating weekly specials
+- multiple people can contribute to the order
+- orders can be saved for future use
 
-
+Note: Building a good shopping cart that is intuitive to use is harder than it seems. Consider that buying an item is a multi-step process, from browsing the choices, to making a selection, to modifying the quantity of your order, to paying (with possible confirmation of your order before and after you pay). Users may want to change their order at any point during this process.
