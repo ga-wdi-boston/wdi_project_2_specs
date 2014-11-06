@@ -1,4 +1,4 @@
-# E-Commerce
+# Bob's Bagels: E-Commerce
 
 ## Outline
 Famed Boston bagel restaurant "Bob's Bagels" needs a new website with a full menu and an online order system for ordering either (1) bulk bagels, or (2) customizable bagel sandwiches (to which toppings can be added or removed, affecting the price of the sandwich).
