@@ -22,3 +22,7 @@ Deciding the best photo is hard, but other people can help you choose the best i
 - Logged-in users are able to flag offensive image sets for moderation, and after 3 flags they are automatically hidden from the public.
 - Users have the option to get notifications sent to them (with context; i.e. “User X replied to your comment, ‘Blah blah blah’ ”)
 - Users can crop and apply filters to their photos
+
+## Gotchas
+
+Image upload must persist to Amazon S3/Cloudfront, and handling the upload process with JavaScript is tricky. We have included some code for Rails that can help out greatly with this. Don't just blindly use the code however, and make sure that you use `pry` to trace through it completely, and potentially even refactor it.
